@@ -1,0 +1,52 @@
+8
+
+dir
+7095
+http://svn.ckeditor.com/CKEditor/releases/stable/plugins/link/dialogs
+http://svn.ckeditor.com
+
+
+
+2011-06-16T19:08:00.306580Z
+7070
+wwalc
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+da63caf2-3823-0410-a1e8-d69ccee00dfb
+
+anchor.js
+file
+
+
+
+
+2011-07-07T15:51:00.000000Z
+b4468cde0348d46a0909d9a008f94b7c
+2011-05-09T15:28:30.100976Z
+6907
+wwalc
+
+link.js
+file
+
+
+
+
+2011-07-07T15:51:00.000000Z
+c53e0607fdc282a8d652feac39032507
+2011-06-16T19:08:00.306580Z
+7070
+wwalc
+

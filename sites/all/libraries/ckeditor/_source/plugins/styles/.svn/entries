@@ -1,0 +1,43 @@
+8
+
+dir
+7095
+http://svn.ckeditor.com/CKEditor/releases/stable/_source/plugins/styles
+http://svn.ckeditor.com
+
+
+
+2011-06-16T19:08:00.306580Z
+7070
+wwalc
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+da63caf2-3823-0410-a1e8-d69ccee00dfb
+
+styles
+dir
+
+plugin.js
+file
+
+
+
+
+2011-07-07T15:51:01.000000Z
+b0438ae889c5b613a13dcf407925795c
+2011-06-16T19:08:00.306580Z
+7070
+wwalc
+

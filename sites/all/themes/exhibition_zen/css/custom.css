@@ -1,0 +1,66 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* home content rules */
+
+a { color: #000; }
+
+.homepage_content_lead {
+	text-align: center;
+	font-weight:bold;
+	font-size: 120%;
+	color: #990000;
+}
+.homepage_content_info, .homepage_event {
+	text-align: center;
+	font-weight: bold;
+	font-size: 110%;
+}
+
+
+.foot_logos {
+	width: auto;
+	float: left;
+	padding-right: 10px;
+	margin-right: 10px;	
+	border-right: 1px solid black;
+}
+
+#region-image-bgs {
+	float: left;
+	width: 400px;
+  	margin-right: 10px;
+	border: 1px solid black;
+	text-align: center;
+}
+.front #page #page-title {
+	display: none;
+}
+.region-footer {
+	margin-top:100px;
+}
+div#navigation div.section ul#main-menu  {
+	width: 800px;
+	margin: 0 auto 0 auto;
+}
+#header {
+	width: 400px;
+	text-align:center;
+	margin: 0 auto 0 auto;
+}
+.image_block_caption {
+	text-align: center;
+	padding: 5px;
+}
+.with-navigation .region-sidebar-first {
+	margin-top: 20px;
+}
+.image_page_caption {
+	font-size: 105%;
+	text-align: center;
+	width: 400px;
+	margin: 20px auto 20px auto;
+}
+.field-type-image{
+	text-align: center;
+}

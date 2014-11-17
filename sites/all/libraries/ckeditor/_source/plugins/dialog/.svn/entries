@@ -1,0 +1,52 @@
+8
+
+dir
+7095
+http://svn.ckeditor.com/CKEditor/releases/stable/_source/plugins/dialog
+http://svn.ckeditor.com
+
+
+
+2011-06-16T19:31:49.671446Z
+7073
+wwalc
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+da63caf2-3823-0410-a1e8-d69ccee00dfb
+
+dialogDefinition.js
+file
+
+
+
+
+2011-07-07T15:51:02.000000Z
+76d152f11fd8377d89b1c0797cf67ce1
+2011-06-16T19:31:49.671446Z
+7073
+wwalc
+
+plugin.js
+file
+
+
+
+
+2011-07-07T15:51:02.000000Z
+0c9d64cba3b320d0835f31e026ecac5f
+2011-06-16T19:08:00.306580Z
+7070
+wwalc
+

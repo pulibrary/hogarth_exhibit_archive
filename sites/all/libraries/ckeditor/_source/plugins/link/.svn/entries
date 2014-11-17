@@ -1,0 +1,46 @@
+8
+
+dir
+7095
+http://svn.ckeditor.com/CKEditor/releases/stable/_source/plugins/link
+http://svn.ckeditor.com
+
+
+
+2011-06-16T19:08:00.306580Z
+7070
+wwalc
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+da63caf2-3823-0410-a1e8-d69ccee00dfb
+
+dialogs
+dir
+
+images
+dir
+
+plugin.js
+file
+
+
+
+
+2011-07-07T15:51:02.000000Z
+8ff53f67f4f9fac2b9e4d2675ab98ded
+2011-06-16T19:08:00.306580Z
+7070
+wwalc
+
